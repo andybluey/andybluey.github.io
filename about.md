@@ -23,5 +23,4 @@ I wanted to work for startups and tech companies. I had spent a lot of time rese
 
 ### Contact me
 
-[Click me](http://www.google.com){: .btn}
 [Andy's Email](mailto:andrewjaknight@gmail.com)
