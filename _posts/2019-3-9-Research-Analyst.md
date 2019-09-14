@@ -35,6 +35,17 @@ Pick it apart a little and you will see that you can use ideas from it that can 
 I read with the intention of learning, not copying and trying to find something to file away for another day - adding reminders is a good idea. These resources really come in handy for ideation/brainstorming later on.
 
 
+### North Star
+
+Finding and then focussing on the metrics that matter.
+
+If you're really _data driven_ you should identify the most important metric for your current stage, the one the product/service delivers to customers. Once settled, you should constantly learn about and optimize for that metric.
+
+In my old research world when I started analysing a company, I’d try and find out and then focus on the major drivers of revenue & earnings. A lot of companies spruik (with a lot of information) particular metrics or areas of growth, but if it's only 6% of total revenues or earnings, it's impact is likely to be minimal, at least in the short term. 
+
+By focussing on the metrics that matter from the start, I was able to ignore large parts of information that don't move the needle or have an impact.
+
+
 ### Analysing Data
 
 [Lean Analytics](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675) addresses this perfectly and is well worth the read if you're unsure what you should be measuring or looking at for a given industry. 
@@ -42,5 +53,3 @@ I read with the intention of learning, not copying and trying to find something 
 Getting hung up on high level or the wrong data & analytics without digging into the real ones is dangerous. 
 
 It can be difficult to highlight the importance if everyone is going at 100%, but if others don't understand the impacts can be costly.
-
-**North Star** - If you're really _data driven_ you should identify the most important metric for your current stage, the one the product/service delivers to customers. Once settled, you should constantly learn about and optimize for that metric.
