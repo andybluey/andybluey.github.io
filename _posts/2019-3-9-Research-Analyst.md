@@ -15,7 +15,7 @@ In fact Growth shares many similarities with Finance. Many of the processes and 
 
 This gets me to a point where I think the 2 worlds really do align. Without processes to analyse a company or the risk of a portfolio in finance, you're just shooting in the dark. You're pulling information up randomly and expecting a good outcome. Garbage in, garbage out.
 
-This was me when I first tried looking at growth for my [startup](https://study101.com/). I started looking at basic articles with catchy headlines. 
+This was me when I first tried looking at growth for my [startup](https://study101.com/). I was looking at basic articles with catchy headlines. 
 
 What I very quickly realised is that they were exactly that, "8 things to growth" BS. After buying some books and following some well respected growth guys, you understand that it involves a methodology and a set of processes to succeed over time. "Viral" & "Hacks" are [catchy titles](https://conversionxl.com/blog/growth-hacking/) for articles but it's best to avoid these because they're unlikely to have any substance. 
 
