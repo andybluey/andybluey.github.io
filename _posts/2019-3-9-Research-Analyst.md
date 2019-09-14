@@ -15,4 +15,12 @@ In fact Growth shares many similarities with Finance. Many of the processes and 
 
 Case studies are written in both Growth & Finance with plenty of detail and information about a particular company or method. Now if your company isn't exactly the same, does that mean the information doesn't apply? **NO** It means that you have to look at it slightly differently, perhaps the medium or method is a little different, but there's information for you to explore and work on.
 
-If it's on B2B, should it be ignored if you're B2C? **No way**
+If it's on B2B, should it be ignored if you work in B2C? 
+
+**No way**
+
+Pick it apart a little and you will see that you can use parts of it that can sit in your world.
+
+### Processes & Frameworks
+
+This gets me to a point where I think the 2 worlds really do align. If you
