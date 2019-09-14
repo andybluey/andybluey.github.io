@@ -2,7 +2,7 @@ _Reverse engineering_, also called back engineering, is the process by which a m
 
 Reverse engineering processes from tech companies that lead the way in growth and conversion is a little hobby of mine when I get some spare time. 
 
-I've been reverse engineering things for years. With my role as an analyst I did it A LOT (I figured out how much fuel Qantas was going to use in a year), it's also very helpful when you're learning to program / code.
+I've been reverse engineering things for years. With my role as an analyst I did it A LOT (I used it to figure out how much fuel Qantas was going to in the coming year), it's also very helpful when you're learning to program / code.
 
 **Why?**
 
