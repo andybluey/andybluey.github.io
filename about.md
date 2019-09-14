@@ -6,9 +6,15 @@ permalink: /about/
 
 ### Background
 
-I used to be a research analyst. I would analyse a company - looking at it's business strategy, competitive position and advantages, key drivers, industry analysis then investigating its financials which involved modelling historical data and developing forecasts & valuations. 
+I used to be a research analyst and a fund manager. 
 
-I'd also have to use a lot of data, so I began getting into Excel VBA and coding because it automated a lot of menial, repetitive tasks.
+_What does that mean?_ 
+
+I would right a lot of reports after spending a long time investigating a company or industry! 
+
+To analyse a company I would look at it's business strategy, competitive position and advantages, key drivers, and the industry it operates in. After that, I'd start investigating its financials which involved modelling historical data, building out analytics & ratios and then developing forecasts & valuations. 
+
+I'd also have to use a lot of data from a range of sources (company, ABS, bloomberg, etc). So I began getting into Excel VBA and coding because it automated a lot of menial, repetitive tasks.
 
 
 ### Move to Tech
