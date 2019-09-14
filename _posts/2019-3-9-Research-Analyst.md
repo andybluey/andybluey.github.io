@@ -21,12 +21,12 @@ What I very quickly realised is that they were catchy headlines with BS substanc
 
 **It also pays to think independently.**
 
-Case studies are written in both Growth & Finance with plenty of detail and information about a particular company or method. Now if your company isn't exactly the same, does that mean the information doesn't apply? **NO** It means that you have to look at it slightly differently, perhaps the medium or method is a little different, but there's information for you to explore and work on.
+Case studies are written in both Growth & Finance with plenty of detail and information about a particular company or method. Now, if your company isn't exactly the same as the case study, does that mean the information doesn't apply? **NO** It means that you have to look at it slightly differently, perhaps the medium or method is a little different, but there's information for you to explore and work on.
 
 If it's on B2B, should it be ignored if you work in B2C? 
 
 **No way**
 
-Pick it apart a little and you will see that you can use parts of it that can sit in your world.
+Pick it apart a little and you will see that you can use parts of it that can sit in your world. In finance, I used to keep a "Bible" of references, frameworks, resources & even quotes that I'd refer to. They were basically cheat sheets. You can do the same with Growth case studies - read with the intention of learning, not copying and you should at least find something to file away for another day.
 
 
