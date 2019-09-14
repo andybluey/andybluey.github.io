@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How a research analyst background helps in growth
+title: How a research analyst background helps in Growth
 ---
 
 As a research analyst, I spent **A LOT** of time reading. Company announcements like annual reports, articles on economics, industry journals, investment ideas, books on analysing financials & companies.
