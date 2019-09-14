@@ -20,7 +20,7 @@ This was me when I first tried looking at growth for my [startup](https://study1
 What I very quickly realised is that there were catchy headlines with BS substance when you search in google. After buying some key books and following some well respected growth guys, you understand that it involves a methodology and a set of processes to succeed over time. "Viral" & "Hacks" are [catchy titles](https://conversionxl.com/blog/growth-hacking/) for articles but it's best to avoid these because they're unlikely to have any substance or be repeatable. 
 
 
-#### It pays to think independently.
+### It pays to think independently.
 
 Believe it or not, as a research analyst I had to try and think differently to everyone else. I didn't want to look into details about the latest market darling, I needed to try and find one without the spotlight.
 
@@ -30,7 +30,9 @@ If it's on B2B, should it be ignored if you work in B2C?
 
 **No way**
 
-Pick it apart a little and you will see that you can use parts of it that can sit in your world. In finance, I used to keep a "Bible" of references, frameworks, resources & even quotes that I'd refer to for each industry. They were basically cheat sheets. I've also done the same with Growth, with a spreadsheet broken into the different areas (content, conversion, testing, Paid Social, GAds, Seo, etc) and frequently add to them with new articles & case studies. I read with the intention of learning, not copying and trying to find something to file away for another day.
+Pick it apart a little and you will see that you can use ideas from it that can sit in your world. In finance, I used to keep a "Bible" of references, frameworks, resources & even quotes that I'd refer to for each industry. They were basically cheat sheets. I've also done the same with Growth, with a spreadsheet broken into the different areas (content, conversion, testing, Paid Social, GAds, Seo, etc) and frequently add to them with new articles & case studies. 
+
+I read with the intention of learning, not copying and trying to find something to file away for another day - adding reminders is a good idea. These resources really come in handy for ideation/brainstorming later on.
 
 
 ### Analysing Data
